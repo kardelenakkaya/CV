@@ -1,0 +1,162 @@
+---
+title: "Kardelen Akkaya CV"
+author: Kardelen Akkaya
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![KardelenAkkaya](kardelen.jpg){width=80%}
+```{r, echo=FALSE}
+htmltools::tagList(fontawesome::fa_html_dependency())
+```
+
+```{css, echo=FALSE}
+.aside .level2 {
+    margin-top: 0.1in;
+}
+data-id="contact"] ul {
+    margin-top: 0.05in;
+    padding-left: 0;
+    font-weight: 200;
+    line-height: 1.2;
+    font-size: 12px;
+}
+.p {
+    text-align: justify;
+}
+```
+
+İLETİŞİM BİLGİLERİ {#contact}
+--------------------------------------------------------------------------------
+
+- <i style ='font-size: xx-small;' class="fa fa-envelope"></i> kardelenakkaya@eskisehir.edu.tr
+
+- <i style ='font-size: xx-small;' class="fa fa-github"></i> [github.com/kardelenakkaya](https://github.com/kardelenakkaya)
+
+- <i style ='font-size: xx-small;' class="fab fa-kaggle"></i> [kaggle.com/kardelenakkaya](https://kaggle.com/kardelenakkayaa)
+
+- <i style ='font-size: xx-small;' class="fa fa-phone"></i> 
+
+
+
+TEKNİK BECERİLER  {#skills}
+--------------------------------------------------------------------------------
+
+- Matematiksel modelleme, metasezgisel ve sezgisel optimizasyon, stok analizi, iş-etüdü, üretim yöntemleri ve planlama, proje yönetimi, veri analizi, istatistiksel analiz, yapay öğrenme, veri bilimi konularında deneyim.
+
+- Python, GAMS programlama dillerinde deneyim.
+
+- MSOffice programlarında deneyim.
+
+KİŞİSEL BECERİLER  {#skills}
+--------------------------------------------------------------------------------
+
+- İyi iletişim kurabilme, yeni şeyler öğrenmeye açık olma, kolay adapte olabilme, takım çalışmasına yatkın olma, sorumluluk sahibi olma
+
+
+
+Main
+================================================================================
+
+Kardelen Akkaya {#title}
+--------------------------------------------------------------------------------
+
+### Endüstri Mühendisi Adayı
+
+Eskişehir Teknik Üniversitesi Endüstri
+Mühendisliği bölümü son sınıf öğrencisiyim.
+Genç bir mühendis adayı olarak, sektörde tecrübe
+edinmeyi, sosyal ve teknik anlamda kendimi
+geliştirmeyi ve bulunduğum yere katkı sağlamayı
+hedefliyorum. Veri bilimi, yapay zeka, optimizasyon konularına ilgi duyuyorum.
+
+
+EĞİTİM {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Eskişehir Teknik Üniversitesi
+
+Yabancı Diller Yüksek Okulu (Hazırlık)
+
+Eskişehir, Türkiye
+
+2017
+
+Pearson Foreign Languages Certificate Course Completion
+
+İngilizce okuma, yazma, konuşma B2 seviye.
+
+
+### Eskişehir Teknik Üniversitesi
+
+Endüstri Mühendisliği Bölümü %30 İngilizce (Son sınıf, Not Ortalaması: 3.02)
+
+Eskişehir, Türkiye
+
+2018
+
+  
+İŞ DENEYİMLERİ {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Staj
+
+DenizBank Denizaşırı Online Staj Programı
+
+Çevrimiçi, Türkiye
+
+03/2020 - 04/2020
+
+
+### Üretim Stajı
+
+Peyman Kuruyemiş A.Ş. (Zorunlu Bölüm Stajı)
+
+Eskişehir, Türkiye
+
+07/2022 - 08/2022
+
+
+KULÜP DENEYİMLERİ {data-icon=users} 
+--------------------------------------------------------------------------------
+
+### IEEE Öğrenci Kolu
+
+Üye
+
+Eskişehir Teknik Üniversitesi
+
+2019 - 2021
+
+
+### Veri Bilimi Kulübü
+
+Üye
+
+Eskişehir Teknik Üniversitesi
+
+2021 - 2022
+
+### Estudatateam 
+
+Veri Bilimi Kulübü'nün alt dalı. Veri Bilimi alanında düzenlenen yarışma ve eğitimlere katılır.
+
+Eskişehir Teknik Üniversitesi
+
+2021 - 2022
+
+SERTİFİKALAR {data-icon=certificate}
+--------------------------------------------------------------------------------
+
+#### IEEE TR Computer Society Cscon’19,  2019-2020 Bahar Dönemi Onur Belgesi, 2020-2021 Güz Dönemi Yüksek Onur Belgesi, TEI Havacılık Motorları Okulu Sertifikası
+
+
